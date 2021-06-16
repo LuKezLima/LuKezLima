@@ -13,8 +13,8 @@ Soccer lover </b> from Brazil <img width="16" src="https://www.flaticon.com/svg/
         <li> 👨‍💻 I’m currently working to improve my programming <b>skills</b>.</li>
           <li> 🌱 I’m learning about <b>web</b> development focused on <b>front-end</b>. </li>
             <li> 🥅 2021 Goals: Learn and 
-            make some projects with <b>ReactJS</b> to learn and practice more <b>front-end</b> development.</li>
-              <li> 🖥️ I'm focusing on study JS & React <b>technologies</b> </li>
+            make some projects with <b>VueJS</b> to learn and practice more <b>front-end</b> development.</li>
+              <li> 🖥️ I'm focusing on study JS & VueJS <b>technologies</b> </li>
                 <li> 👯 I’m looking to <b>collaborate</b> with other developers! </li>
      <ul>
 
